@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This website has taken inspiration and design from Britanny Chiang ([here](https://github.com/bchiang7/v4)) and Andres Jose ([here]https://github.com/andresjosehr)
+This website has taken inspiration and design from Britanny Chiang ([here](https://github.com/bchiang7/v4)) and Andres Jose ([here] (https://github.com/andresjosehr))
 
 This project is really meant to help me better understand Angular and web development fundamentals in a way that is relevant and fun. 
 
